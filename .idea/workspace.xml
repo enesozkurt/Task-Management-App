@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719f78c0-c37f-4aae-9080-c746e8b0d0cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/tasks/dto/get-tasks-filter-dto.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/tasks/dto/get-tasks-filter-dto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/tasks/dto/get-tasks-filter-dto.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/dto/get-tasks-filter-dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/pipes/task-status-validation.pipe.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.controller.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tasks/tasks.controller.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tasks/tasks.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.controller.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tasks/tasks.controller.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.service.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tasks/tasks.service.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tasks/tasks.service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.service.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tasks/tasks.service.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/tsconfig.build.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tsconfig.build.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/dto/create-task-dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/dto/create-task-dto.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tasks/tasks.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasks.controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tasks/tasks.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasks.service.ts" afterDir="false" />
     </list>
@@ -68,7 +61,7 @@
       <workItem from="1609931400017" duration="22000" />
       <workItem from="1610050108420" duration="2840000" />
       <workItem from="1610085398252" duration="272000" />
-      <workItem from="1610190157314" duration="2580000" />
+      <workItem from="1610190157314" duration="6172000" />
     </task>
     <servers />
   </component>
