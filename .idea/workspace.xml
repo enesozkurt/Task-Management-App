@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719f78c0-c37f-4aae-9080-c746e8b0d0cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/config/typeorm.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/task-status.enum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/task.entity.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/task.repository.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/dto/get-tasks-filter-dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/dto/get-tasks-filter-dto.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/pipes/task-status-validation.pipe.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/pipes/task-status-validation.pipe.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/task.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/task.repository.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tasks/tasks.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasks.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/tasks.model.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/tasks.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasks.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tasks/tasks.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasks.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +58,10 @@
       <workItem from="1609931400017" duration="22000" />
       <workItem from="1610050108420" duration="2840000" />
       <workItem from="1610085398252" duration="272000" />
-      <workItem from="1610190157314" duration="11053000" />
+      <workItem from="1610190157314" duration="11456000" />
+      <workItem from="1610273611440" duration="13000" />
+      <workItem from="1610280775577" duration="2233000" />
+      <workItem from="1610287662297" duration="7216000" />
     </task>
     <servers />
   </component>
