@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719f78c0-c37f-4aae-9080-c746e8b0d0cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/auth/dto/auth-credentials.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/user.entity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/auth/user.repository.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/task.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/task.repository.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/tasks.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasks.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/tasks.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasks.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,9 @@
       <workItem from="1610190157314" duration="11456000" />
       <workItem from="1610273611440" duration="13000" />
       <workItem from="1610280775577" duration="2233000" />
-      <workItem from="1610287662297" duration="7216000" />
+      <workItem from="1610287662297" duration="7565000" />
+      <workItem from="1610472846363" duration="644000" />
+      <workItem from="1610563861351" duration="3947000" />
     </task>
     <servers />
   </component>
