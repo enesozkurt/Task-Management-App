@@ -2,11 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719f78c0-c37f-4aae-9080-c746e8b0d0cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/auth/dto/auth-credentials.dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auth/user.entity.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/auth/user.repository.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.module.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/auth.controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/auth.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/auth.controller.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/auth.module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/auth.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/auth.module.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/auth.service.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/auth.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/auth.service.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/dto/auth-credentials.dto.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/dto/auth-credentials.dto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/dto/auth-credentials.dto.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/user.entity.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/user.entity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/user.entity.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/user.repository.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/user.repository.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/auth/user.repository.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/config/typeorm.config.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/config/typeorm.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/config/typeorm.config.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/dto/create-task-dto.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/dto/create-task-dto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/dto/create-task-dto.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/dto/get-tasks-filter-dto.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/dto/get-tasks-filter-dto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/dto/get-tasks-filter-dto.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/pipes/task-status-validation.pipe.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/pipes/task-status-validation.pipe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/pipes/task-status-validation.pipe.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/task-status.enum.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/task-status.enum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/task-status.enum.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/task.entity.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/task.entity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/task.entity.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/task.repository.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/task.repository.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/task.repository.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.controller.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.controller.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.module.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.service.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tasks/tasks.service.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tsconfig.build.tsbuildinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/auth.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/auth.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/auth.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/auth.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/dto/auth-credentials.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/dto/auth-credentials.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/user.entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/user.entity.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/user.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/user.repository.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +92,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/İndirilenler/nestjs-course-task-management-8a4e3822bf2fdb388827804f6b6830515a3110eb" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,7 +123,8 @@
       <workItem from="1610280775577" duration="2233000" />
       <workItem from="1610287662297" duration="7565000" />
       <workItem from="1610472846363" duration="644000" />
-      <workItem from="1610563861351" duration="3947000" />
+      <workItem from="1610563861351" duration="5334000" />
+      <workItem from="1610644310668" duration="6231000" />
     </task>
     <servers />
   </component>
