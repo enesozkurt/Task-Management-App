@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719f78c0-c37f-4aae-9080-c746e8b0d0cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config/default.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/development.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/production.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/auth.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/auth.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/jwt.strategy.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/jwt.strategy.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/typeorm.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/typeorm.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/task.repository.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/task.repository.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/tasks.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/tasks.controller.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +73,7 @@
       <workItem from="1610644310668" duration="9997000" />
       <workItem from="1610696787838" duration="6000" />
       <workItem from="1610735486245" duration="4889000" />
-      <workItem from="1610805409990" duration="6786000" />
+      <workItem from="1610805409990" duration="8915000" />
     </task>
     <servers />
   </component>
@@ -86,5 +91,17 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/auth/jwt.strategy.ts</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
